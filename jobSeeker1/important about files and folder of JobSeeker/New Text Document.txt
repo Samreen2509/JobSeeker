@@ -1,0 +1,8 @@
+1.Partials folder contains the php files which are used inside other php files
+2.css folder contais all the css files except the index css
+3.icons folder contains all icons,and the png images which ar used in designing
+4. php folder contains the other than index php files
+/***********************************************???********************\
+Abut database
+1.created the database of the user creation of account.
+//status means the status of filled job halfed or full
